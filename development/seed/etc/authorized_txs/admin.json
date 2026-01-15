@@ -1,0 +1,35 @@
+[
+	{
+		"pkg_path": "gno.land/r/akkadia/admin",
+		"func": "TransferAdmin",
+		"args": {
+			"address": "g1nqnrt3aldzhu6zzeg75yw97wvavqy7wr77g56q"
+		},
+		"memo": "",
+		"caller": "g162a5knufzy9es4e4jv2plckxn46qg8vc3adz8x"
+	},
+	{
+		"pkg_path": "gno.land/r/akkadia/admin",
+		"func": "SetProtocol",
+		"args": {
+			"addr": "g1y4u40rz0jdqsqga5y5vfv0j8aa4vfhxktuxv53"
+		},
+		"memo": ""
+	},
+	{
+		"pkg_path": "gno.land/r/akkadia/admin",
+		"func": "SetOperator",
+		"args": {
+			"addr": "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx"
+		},
+		"memo": ""
+	},
+	{
+		"pkg_path": "gno.land/r/akkadia/admin",
+		"func": "SetFeeCollector",
+		"args": {
+			"addr": "g1y4u40rz0jdqsqga5y5vfv0j8aa4vfhxktuxv53"
+		},
+		"memo": ""
+	}
+]

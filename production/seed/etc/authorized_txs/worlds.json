@@ -1,0 +1,142 @@
+[
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "everdawn_plains",
+      "cost": "0",
+      "priceMultiplier": "1",
+      "name": "Everdawn Plains",
+      "description": "The beginning of all things — a peaceful grassland bathed in eternal morning light.",
+      "theme": "origin,serenity",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "verdant_hollow",
+      "cost": "200000000",
+      "priceMultiplier": "1.3",
+      "name": "Verdant Hollow",
+      "description": "Beneath the roots lies a green cave, pulsing with life and the rhythm of nature's breath.",
+      "theme": "life,mystery",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "greenrift_valley",
+      "cost": "250000000",
+      "priceMultiplier": "1.45",
+      "name": "Greenrift Valley",
+      "description": "The first boundary where the plains fracture into winding cliffs and hidden caves.",
+      "theme": "exploration,transition",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "abyssal_rift",
+      "cost": "400000000",
+      "priceMultiplier": "2",
+      "name": "Abyssal Rift",
+      "description": "A colossal geological scar that descends endlessly into the dark — silent and sacred.",
+      "theme": "depth,geology",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "sunveil_expanse",
+      "cost": "400000000",
+      "priceMultiplier": "2.15",
+      "name": "Sunveil Expanse",
+      "description": "A golden desert draped in sunlight and the ruins of forgotten civilizations.",
+      "theme": "desert,antiquity",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "cinder_rift",
+      "cost": "500000000",
+      "priceMultiplier": "2.25",
+      "name": "Cinder Rift",
+      "description": "Streams of molten fire carve through the earth, leaving trails of ash and embers.",
+      "theme": "fire,underworld",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "soulrift_abyss",
+      "cost": "1000000000",
+      "priceMultiplier": "3",
+      "name": "Soulrift Abyss",
+      "description": "Where flame meets spirit — the infernal depths where souls are forged and tested.",
+      "theme": "soul,abyss",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "tide_haven",
+      "cost": "1000000000",
+      "priceMultiplier": "3",
+      "name": "Tide Haven",
+      "description": "A tranquil coastal haven where the sea meets the living land.",
+      "theme": "ocean,boundary",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "frost_reach",
+      "cost": "2500000000",
+      "priceMultiplier": "4.2",
+      "name": "Frost Reach",
+      "description": "The frozen frontier, where time itself sleeps beneath an endless white horizon.",
+      "theme": "ice,purity",
+      "option": ""
+    },
+    "memo": ""
+  },
+  {
+    "pkg_path": "gno.land/r/akkadia/personal_world",
+    "func": "SetBiomeInfo",
+    "args": {
+      "biomeName": "mistveil_grove",
+      "cost": "2500000000",
+      "priceMultiplier": "4.2",
+      "name": "Mistveil Grove",
+      "description": "A mystical forest veiled in silver mist — home to ancient whispers and unseen life.",
+      "theme": "forest,enchantment",
+      "option": ""
+    },
+    "memo": ""
+  }
+]
