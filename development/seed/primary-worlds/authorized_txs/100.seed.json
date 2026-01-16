@@ -1,0 +1,249 @@
+[
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "-2",
+          "0",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "-1",
+          "-1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "-1",
+          "0",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "-1",
+          "1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "0",
+          "-2",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "0",
+          "-1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "0",
+          "0",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "0",
+          "1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "0",
+          "2",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "1",
+          "-1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "1",
+          "0",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "1",
+          "1",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "Mint",
+        "args": [
+          "g1nsayuj7ydac0gthssefwtz53xpvfv6rnquczmx",
+          "system",
+          1,
+          "2",
+          "0",
+          "12bfcc046504a2c012bfcc046504a2c0",
+          "626432e8"
+        ],
+        "memo": ""
+      }
+    ]
+  }
+]

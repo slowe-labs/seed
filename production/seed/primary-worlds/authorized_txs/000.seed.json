@@ -1,0 +1,38 @@
+[
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "CreateWorld",
+        "args": [
+          1,
+          "alexandria_library",
+          "Alexandria Library",
+          "alexandria-library",
+          73809488,
+          "{\"description\":\"A grand sanctuary of knowledge where explorers gather, restore lost records, and unlock new paths across the worlds of Akkadia.\",\"primaeryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"]}"
+        ],
+        "memo": ""
+      }
+    ]
+  },
+  {
+    "type": "/vm.m_call",
+    "value": [
+      {
+        "pkg_path": "gno.land/r/akkadia/chunk",
+        "func": "CreateWorld",
+        "args": [
+          2,
+          "infernal_annex",
+          "Infernal Annex",
+          "infernal_annex",
+          73809488,
+          "{\"description\":\"A perilous expanse of jagged, ember-scorched ruins where explorers brave searing heat, uncover buried truths, and carve a path through the chaos below.\",\"primaeryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"]}"
+        ],
+        "memo": ""
+      }
+    ]
+  }
+]
