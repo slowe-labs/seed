@@ -1712,7 +1712,7 @@
         "72",
         "Glass",
         "",
-        "transparent",
+        "opaque",
         "cube",
         "0",
         "https://storage.akkadia.land/production%2Fseed%2Fblocks%2Ftextures%2Fglass%2Ftexture.png",

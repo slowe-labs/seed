@@ -5,12 +5,12 @@
       "pkg_path": "gno.land/r/akkadia/chunk",
       "func": "CreateWorld",
       "args": [
-        1,
+        "1",
         "alexandria_library",
         "Alexandria Library",
-        "alexandria-library",
-        73809488,
-        "{\"description\":\"A grand sanctuary of knowledge where explorers gather, restore lost records, and unlock new paths across the worlds of Akkadia.\",\"primaeryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"]}"
+        "alexandria_library",
+        "73809488",
+        "{\"description\":\"A grand sanctuary of knowledge where explorers gather, restore lost records, and unlock new paths across the worlds of Akkadia.\",\"primaryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"],\"artwork\":\"https://storage.akkadia.land/development/seed/primary-worlds/alexandria_library/artwork/alexandria_library@2560.webp\"}"
       ]
     }
   },
@@ -20,12 +20,27 @@
       "pkg_path": "gno.land/r/akkadia/chunk",
       "func": "CreateWorld",
       "args": [
-        2,
+        "2",
         "infernal_annex",
         "Infernal Annex",
         "infernal_annex",
-        73809488,
-        "{\"description\":\"A perilous expanse of jagged, ember-scorched ruins where explorers brave searing heat, uncover buried truths, and carve a path through the chaos below.\",\"primaeryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"]}"
+        "73809488",
+        "{\"description\":\"A perilous expanse of jagged, ember-scorched ruins where explorers brave searing heat, uncover buried truths, and carve a path through the chaos below.\",\"primaryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"],\"artwork\":\"https://storage.akkadia.land/development/seed/primary-worlds/infernal_annex/artwork/infernal_annex@2560.webp\"}"
+      ]
+    }
+  },
+  {
+    "type": "/vm.m_call",
+    "value": {
+      "pkg_path": "gno.land/r/akkadia/chunk",
+      "func": "CreateWorld",
+      "args": [
+        "3",
+        "elysion",
+        "Elysion",
+        "elysion",
+        "73809488",
+        "{\"description\":\"A serene realm of towering forests, cascading waterfalls, and shimmering lakes, where explorers seek tranquility and inspiration.\",\"primaryBlocks\":[\"Stone\",\"Dirt\",\"Grass\"],\"artwork\":\"https://storage.akkadia.land/development/seed/primary-worlds/elysion/artwork/elysion@2560.webp\"}"
       ]
     }
   }
