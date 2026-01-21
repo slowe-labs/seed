@@ -5,7 +5,7 @@
       "pkg_path": "gno.land/r/akkadia/chunk",
       "func": "CreateWorld",
       "args": [
-        "1",
+        "100000001",
         "alexandria_library",
         "Alexandria Library",
         "alexandria_library",
@@ -20,7 +20,7 @@
       "pkg_path": "gno.land/r/akkadia/chunk",
       "func": "CreateWorld",
       "args": [
-        "2",
+        "100000002",
         "infernal_annex",
         "Infernal Annex",
         "infernal_annex",
@@ -35,7 +35,7 @@
       "pkg_path": "gno.land/r/akkadia/chunk",
       "func": "CreateWorld",
       "args": [
-        "3",
+        "100000003",
         "elysion",
         "Elysion",
         "elysion",
